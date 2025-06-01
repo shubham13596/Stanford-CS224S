@@ -10,4 +10,6 @@ These are my solutions for the Spring 2025 version of the course CS224S-Spoken L
    creating & analysing t-SNE embeddings for multiple low-resource languages. Getting a baseline WER OF 56% using the HF Transformers library
 6. Final project - Reduced WER from 56% to 38%. WIP to bring it down to sub-30%
    Reducing WER on low-resource language(isiZulu - a Sub-Saharan language) using only Fleurs dataset and a fine-tuned Wav2vec2 checkpoint
+
+Found a better solution? Open an issue to discuss it first, then submit a PR with your implementation
    
