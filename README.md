@@ -12,4 +12,6 @@ These are my solutions for the Spring 2025 version of the course CS224S-Spoken L
    Reducing WER on low-resource language(isiZulu - a Sub-Saharan language) using only Fleurs dataset and a fine-tuned Wav2vec2 checkpoint
 
 Found a better solution? Open an issue to discuss it first, then submit a PR with your implementation
+
+In case you are facing any issue with viewing a notebook, please paste the Github URL at nbviewer.org[https://nbviewer.org/]
    
