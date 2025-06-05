@@ -13,5 +13,5 @@ These are my solutions for the Spring 2025 version of the course CS224S-Spoken L
 
 Found a better solution? Open an issue to discuss it first, then submit a PR with your implementation
 
-In case you are facing any issue with viewing a notebook, please paste the Github URL at nbviewer.org[https://nbviewer.org/]
+In case you are facing any issue with viewing a notebook, please paste the Github URL at [nbviewer.org](https://nbviewer.org/)
    
